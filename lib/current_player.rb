@@ -1,7 +1,7 @@
-counter = 0
+turns = 0
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def turn_count(board)
-  if turn = "X" or "O"
+  if turns = "X" or "O"
   counter += 1
 end
 end
